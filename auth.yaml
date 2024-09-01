@@ -1,3 +1,7 @@
-registry.cn-beijing.aliyuncs.com/io01:
-  username: "$ACR_USER"
-  password: "$ACR_PASSWORD"
+registry.cn-hangzhou.aliyuncs.com/serviceai:
+  username: 数谈智能
+  password: Jiaguo76
+  
+registry-1.docker.io/serviceaide:
+  username: serviceaideindia
+  password: Service@Pass49
