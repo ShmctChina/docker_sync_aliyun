@@ -1,3 +1,3 @@
 registry-1.docker.io/serviceaide/*:/^(?!.*-)[0-9.]+$/:
-  registry.cn-hangzhou.aliyuncs.com/your_namespace/${source_repo}:
+  registry.cn-hangzhou.aliyuncs.com/serviceai/${source_repo}:
     limit: 3
