@@ -2,8 +2,4 @@ registry-1.docker.io/serviceaide:
   username: serviceaideindia
   password: Service@Pass49
 
-registry.cn-hangzhou.aliyuncs.com/serviceai:
-  username: 数谈智能
-  password: Jiaguo76
-  
 
