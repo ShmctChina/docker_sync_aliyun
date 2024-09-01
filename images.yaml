@@ -1,3 +1,5 @@
-registry-1.docker.io/serviceaide/*:/^(?!.*-)[0-9.]+$/:
+registry-1.docker.io/serviceaide/*:
   registry.cn-hangzhou.aliyuncs.com/serviceai/${source_repo}:
+    filter_tag:
+      - /^(?!.*-)[0-9.]+$/
     limit: 3
